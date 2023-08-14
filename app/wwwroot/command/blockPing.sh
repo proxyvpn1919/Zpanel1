@@ -1,0 +1,1 @@
+sudo iptables -A INPUT -p icmp -i $1 -j DROP

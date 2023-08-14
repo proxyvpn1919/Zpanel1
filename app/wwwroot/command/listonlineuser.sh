@@ -1,0 +1,1 @@
+sudo lsof -i -n | egrep '\<ssh\>' | grep  -v "root" 

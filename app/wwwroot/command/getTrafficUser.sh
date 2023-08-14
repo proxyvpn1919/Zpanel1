@@ -1,0 +1,1 @@
+iptables -L OUTPUT -n -v    | grep $1 #--line-numbers
