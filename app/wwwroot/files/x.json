@@ -1,0 +1,207 @@
+1:Adding local address: 185.110.188.98 2:Adding local address: fe80::70fd:e4ff:fe74:7f54 3:Ethernet link detected 4: [
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 5: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.222266,
+    "TX": 0.060938
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.078320,
+    "TX": 0.220898
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 6: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.795703,
+    "TX": 0.134766
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.182422,
+    "TX": 0.777539
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 7: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.844922,
+    "TX": 0.147656
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.195312,
+    "TX": 0.798047
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 8: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.890234,
+    "TX": 0.173828
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.195312,
+    "TX": 0.798047
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 9: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.890234,
+    "TX": 0.173828
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.195312,
+    "TX": 0.798047
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 10: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.890234,
+    "TX": 0.173828
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.195312,
+    "TX": 0.798047
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 11: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.890234,
+    "TX": 0.173828
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.195312,
+    "TX": 0.798047
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 12: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.582812,
+    "TX": 0.073828
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.104102,
+    "TX": 0.565430
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+] 13: [
+  {
+    "name": "sshd: root@pts/1",
+    "PID": 99402,
+    "UID": 0,
+    "RX": 0.628125,
+    "TX": 0.100000
+  },
+  {
+    "name": "sshd: jamal",
+    "PID": 99380,
+    "UID": 1000,
+    "RX": 0.104102,
+    "TX": 0.565430
+  },
+  {
+    "name": "unknown TCP",
+    "PID": 0,
+    "UID": 0,
+    "RX": 0.000000,
+    "TX": 0.000000
+  }
+]
