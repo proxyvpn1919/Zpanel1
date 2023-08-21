@@ -1,1 +1,1 @@
-sudo lsof -i -n | egrep '\<ssh\>' | awk '{print $3 $9}' > /var/netcore/Zpanel1-main/app/wwwroot/files/list_online_users.txt
+sudo lsof -i -n | egrep '\<ssh\>' | awk '{print $3 $9}' > /root/panel/wwwroot/files/list_online_users.txt

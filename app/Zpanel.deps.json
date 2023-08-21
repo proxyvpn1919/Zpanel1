@@ -13,7 +13,8 @@
           "Newtonsoft.Json": "13.0.3",
           "Quartz": "3.7.0",
           "Quartz.Extensions.DependencyInjection": "3.7.0",
-          "Quartz.Extensions.Hosting": "3.7.0"
+          "Quartz.Extensions.Hosting": "3.7.0",
+          "Universe.CpuUsage": "2.2.497.598"
         },
         "runtime": {
           "Zpanel.dll": {}
@@ -395,6 +396,14 @@
           }
         }
       },
+      "Universe.CpuUsage/2.2.497.598": {
+        "runtime": {
+          "lib/netcoreapp3.1/Universe.CpuUsage.dll": {
+            "assemblyVersion": "2.2.497.598",
+            "fileVersion": "2.2.497.598"
+          }
+        }
+      },
       "ZstdSharp.Port/0.6.2": {
         "runtime": {
           "lib/net6.0/ZstdSharp.dll": {
@@ -711,6 +720,13 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "Universe.CpuUsage/2.2.497.598": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMW4n+4Bvoks6LHm0LQWLxG8Xhfu/vgJHa+rAU0oWz3IlMnZwOe+3lLOzlasOySxvrBlFr34roHsPzya0OcyXA==",
+      "path": "universe.cpuusage/2.2.497.598",
+      "hashPath": "universe.cpuusage.2.2.497.598.nupkg.sha512"
     },
     "ZstdSharp.Port/0.6.2": {
       "type": "package",
