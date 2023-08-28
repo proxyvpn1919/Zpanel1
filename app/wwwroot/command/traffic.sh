@@ -1,2 +1,1 @@
-﻿sudo nethogs -j -d 1 -v 3 -c 30 | grep  ' ' -n > /root/app/wwwroot/files/trafficUser$1.json
-#sudo nethogs  -j -d 1 -v 3 -c 30  | grep  '' -n > /root/panel/wwwroot/files/trafficUser$1.json
+﻿sudo nethogs  -j -d 1 -v 0 -c 10 > /root/app/zpanel/wwwroot/files/trafficUser$1.json
